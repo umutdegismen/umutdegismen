@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 👋 Hi, I’m Umut Degismen — SDET / Automation QA Engineer
+# 👋 Hi, I’m Umut — SDET / Automation QA Engineer based in the USA.
 
 🚀 I design **scalable, reliable test automation frameworks** that ensure product quality across **UI, API, and Database layers**.
 
