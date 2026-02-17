@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-# 👋 Hi, I’m Umut — SDET / Automation QA Engineer based in the USA.
+I’m Umut, an SDET / Automation QA Engineer based in the USA.
 
-🚀 I design **scalable, reliable test automation frameworks** that ensure product quality across **UI, API, and Database layers**.
+I design **scalable, reliable test automation frameworks** that ensure product quality across **UI, API, and Database layers**.
 
 ---
 
