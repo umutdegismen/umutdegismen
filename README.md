@@ -18,16 +18,17 @@
 ## 🛠️ Core Skills & Tools
 
 ### **Test Automation**
-- **Selenium WebDriver**
-- **Cucumber (BDD)**
-- **TestNG**
-- **REST Assured**
-- **Postman**
-- **JMeter** (Performance Testing)
+- Selenium WebDriver  
+- Cucumber (BDD)  
+- TestNG  
+- REST Assured & Postman  
+- JMeter (Performance & Load Testing)
+- Hybrid framework (**Cucumber & TestNG structured on Maven**) supporting **parallel execution across UI, API, and Database tests**
 
 ### **Programming Languages**
-- **Java (Java 17)**
+- **Java**
 - **C#**
+- **Python**
 - **SQL**
 
 ### **Frameworks & Architecture**
@@ -37,15 +38,13 @@
 - Reusable utilities & test libraries  
 
 ### **Databases**
-- JDBC
-- Entity Framework
-- SQL (joins, subqueries, validations)
+- **JDBC (Java)** – for **automation testing**  
+- **MSSQL & MySQL** – queries, joins, subqueries, validations for **manual and exploratory testing**
 
 ### **DevOps & Collaboration**
-- Git
-- Maven
-- CI/CD pipelines
-- Jira
+- **Version Control & CI/CD:** Git, Maven, CI/CD pipelines  
+- **Cloud & Containers:** Docker, AWS  
+- **Project Management:** Jira
 
 ---
 
@@ -75,19 +74,4 @@
 ## 📫 Let’s Connect
 - 💼 LinkedIn: *https://www.linkedin.com/in/umutdegismen/*
 
-> **Quality is not tested in — it is engineered.**  
-
-<!--
-**umutdegismen/umutdegismen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> **Quality is not tested in — it is engineered.**
