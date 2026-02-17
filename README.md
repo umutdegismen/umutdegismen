@@ -18,11 +18,12 @@ I design **scalable, reliable test automation frameworks** that ensure product q
 ## 🛠️ Core Skills & Tools
 
 ### **Test Automation**
-- Selenium WebDriver  
-- Cucumber (BDD)  
-- TestNG  
-- REST Assured & Postman  
+- Selenium WebDriver
+- Cucumber (BDD)
+- TestNG
+- REST Assured & Postman
 - JMeter (Performance & Load Testing)
+- Appium (Mobile Automation – Android & iOS)
 - Hybrid framework (**Cucumber & TestNG structured on Maven**) supporting **parallel execution across UI, API, and Database tests**
 
 ### **Programming Languages**
