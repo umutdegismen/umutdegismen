@@ -6,7 +6,7 @@ I design **scalable, reliable test automation frameworks** that ensure product q
 
 ---
 
-## 🎯 What I Do (At a Glance)
+## What I Do (At a Glance)
 - Build **end-to-end automation frameworks** from scratch  
 - Automate **web, API, and database testing**  
 - Integrate tests into **CI/CD pipelines**  
@@ -15,7 +15,7 @@ I design **scalable, reliable test automation frameworks** that ensure product q
 
 ---
 
-## 🛠️ Core Skills & Tools
+## Core Skills & Tools
 
 ### **Test Automation**
 - Selenium WebDriver
@@ -49,7 +49,7 @@ I design **scalable, reliable test automation frameworks** that ensure product q
 
 ---
 
-## 🧠 How I Add Value
+## How I Add Value
 - Catch **critical bugs before production**
 - Reduce **manual regression time**
 - Increase **automation stability & maintainability**
@@ -58,21 +58,21 @@ I design **scalable, reliable test automation frameworks** that ensure product q
 
 ---
 
-## 📌 Experience Highlights
+## Experience Highlights
 - Automation QA Engineer in **enterprise web applications**
 - QA experience in **airline systems & interactive entertainment**
 - Strong focus on **quality engineering, not just testing**
 
 ---
 
-## 🔍 What I’m Best At
+## What I’m Best At
 ✅ Turning requirements into **robust automation**  
 ✅ Designing frameworks that **scale with the product**  
 ✅ Writing tests that **developers trust**  
 
 ---
 
-## 📫 Let’s Connect
+## Let’s Connect
 - 💼 LinkedIn: *https://www.linkedin.com/in/umutdegismen/*
 
 > **Quality is not tested in — it is engineered.**
