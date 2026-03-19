@@ -10,7 +10,7 @@ I design **scalable, reliable test automation frameworks** that ensure product q
 - Build **end-to-end automation frameworks** from scratch  
 - Automate **web, API, and database testing**  
 - Integrate tests into **CI/CD pipelines**
-- **Containerize test environments** using Docker for consistent execution across local and CI environments.
+- Containerize test environments using **Docker** for consistent execution across local and CI environments.
 - Improve **test reliability, coverage, and execution speed**  
 - Bridge the gap between **QA, Dev, and Product**
 
