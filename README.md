@@ -9,7 +9,8 @@ I design **scalable, reliable test automation frameworks** that ensure product q
 ## What I Do (At a Glance)
 - Build **end-to-end automation frameworks** from scratch  
 - Automate **web, API, and database testing**  
-- Integrate tests into **CI/CD pipelines**  
+- Integrate tests into **CI/CD pipelines**
+- **Containerize test environments** using Docker for consistent execution across local and CI environments.
 - Improve **test reliability, coverage, and execution speed**  
 - Bridge the gap between **QA, Dev, and Product**
 
@@ -19,11 +20,12 @@ I design **scalable, reliable test automation frameworks** that ensure product q
 
 ### **Test Automation**
 - Selenium WebDriver
-- Appium (Mobile Automation – Android & iOS)
 - Cucumber (BDD)
 - TestNG
 - REST Assured & Postman
+- Appium (Mobile Automation – Android & iOS)
 - JMeter (Performance & Load Testing)
+- Headless Testing & Grid
 - Hybrid framework (**Cucumber & TestNG structured on Maven**) supporting **parallel execution across UI, API, and Database tests**
 
 ### **Programming Languages**
@@ -43,7 +45,7 @@ I design **scalable, reliable test automation frameworks** that ensure product q
 - **MSSQL & MySQL** – queries, joins, subqueries, validations for **manual and exploratory testing**
 
 ### **DevOps & Collaboration**
-- **Version Control & CI/CD:** Git, Maven, CI/CD pipelines  
+- **Version Control & CI/CD:** Git, Maven, CI/CD pipelines   
 - **Cloud & Containers:** Docker, AWS  
 - **Project Management:** Jira
 
