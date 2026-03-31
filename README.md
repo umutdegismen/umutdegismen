@@ -1,8 +1,8 @@
-## Hi there 👋
+## 👋 Umut Degismen | SDET / QA Automation Engineer
 
 I’m Umut, an SDET / QA Automation Engineer based in the USA.
 
-I design **scalable, reliable test automation frameworks** that ensure product quality across **UI, API, and Database layers**.
+I specialize in building **scalable test automation frameworks** that validate **UI, API, and database layers**, helping teams ship **faster with confidence**.
 
 ---
 
@@ -11,7 +11,7 @@ I design **scalable, reliable test automation frameworks** that ensure product q
 - Automate **web, API, and database testing**  
 - Integrate tests into **CI/CD pipelines**
 - Containerize test environments using **Docker** for consistent execution across local and CI environments.
-- Improve **test reliability, coverage, and execution speed**  
+- Improve **test reliability, coverage, and execution performance**  
 - Bridge the gap between **QA, Dev, and Product**
 
 ---
@@ -19,14 +19,11 @@ I design **scalable, reliable test automation frameworks** that ensure product q
 ## Core Skills & Tools
 
 ### **Test Automation**
-- Selenium WebDriver
-- Cucumber (BDD)
-- TestNG
-- REST Assured & Postman
-- Appium (Mobile Automation – Android & iOS)
-- JMeter (Performance & Load Testing)
-- Headless Testing & Grid
-- Hybrid framework (**Cucumber & TestNG structured on Maven**) supporting **parallel execution across UI, API, and Database tests**
+**Automation:** Selenium WebDriver, Cucumber (BDD), TestNG  
+**API:** REST Assured, Postman  
+**Performance:** JMeter  
+**Mobile:** Appium (Android & iOS)  
+**Automation Framework:** Hybrid framework (**Cucumber & TestNG structured on Maven**) supporting **parallel execution across UI, API, and Database tests**
 
 ### **Programming Languages**
 - **Java**
@@ -68,9 +65,9 @@ I design **scalable, reliable test automation frameworks** that ensure product q
 ---
 
 ## What I’m Best At
-✅ Turning requirements into **robust automation**  
-✅ Designing frameworks that **scale with the product**  
-✅ Writing tests that **developers trust**  
+✅ Designing **scalable, maintainable automation frameworks**  
+✅ Implementing **robust CI-integrated test pipelines**  
+✅ Building **reliable cross-layer test strategies (UI + API + DB)**  
 
 ---
 
