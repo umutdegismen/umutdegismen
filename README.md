@@ -71,6 +71,49 @@ I specialize in building **scalable test automation frameworks** that validate *
 
 ---
 
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://git.io/typing-svg">
+          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&center=true&pause=1000&width=200&lines=Languages" alt="Typing SVG" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://git.io/typing-svg">
+          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&center=true&pause=1000&width=200&lines=IDEs" alt="Typing SVG" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://git.io/typing-svg">
+          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&center=true&pause=1000&width=200&lines=DevOps%20%26%20Cloud" alt="Typing SVG" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://git.io/typing-svg">
+          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&center=true&pause=1000&width=200&lines=Test%20%26%20Database" alt="Typing SVG" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=java,cs,py,html&perline=2" />
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=eclipse,visualstudio,vscode,pycharm&perline=2" />
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=docker,jenkins,aws,github&perline=2" />
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=selenium,gherkin,postman,mysql&perline=2" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
 ## Let’s Connect
 - 💼 LinkedIn: *https://www.linkedin.com/in/umutdegismen/*
 
