@@ -1,4 +1,4 @@
-## 👋 Umut Degismen | SDET / QA Automation Engineer
+## Umut Degismen | SDET / QA Automation Engineer
 
 I’m Umut, an SDET [Software Development Engineer in Test] based in the USA.
 
